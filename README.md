@@ -1,6 +1,8 @@
 # ScalaTest
 Sample Scala Tasks
 
+Test
+
 CSV File : resources/samplecsv.csv
 
 Task1
